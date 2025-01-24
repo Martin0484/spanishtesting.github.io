@@ -1,0 +1,37 @@
+h1 {
+  text-align: center;
+  margin: 50px;
+  background-color: orange;
+}
+
+h1:hover {
+  background-color: blue;
+}
+
+.first {
+  margin: 0px auto;
+  max-width: 960px;
+  min-width: 330px;
+  background-color: blue;
+  border: 2px solid blue;
+}
+
+.second {
+  width: 300px;
+  float: left;
+  margin: 10px;
+  background-image: url("images/firstphoto.jpg");
+}
+
+.second:hover {
+  background-image: url("images/secondphoto.jpg");
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  text-align: left;
+  padding: 10px;
+}
