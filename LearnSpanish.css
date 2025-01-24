@@ -20,11 +20,11 @@ h1:hover {
   width: 300px;
   float: left;
   margin: 10px;
-  background-image: url("images/firstphoto.jpg");
+  background-image: url("firstphoto.jpg");
 }
 
 .second:hover {
-  background-image: url("images/secondphoto.jpg");
+  background-image: url("secondphoto.jpg");
 }
 
 h3 {
